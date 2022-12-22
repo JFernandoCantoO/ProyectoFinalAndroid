@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Project_Maps</string>
+    <string name="title_activity_maps">Maps App</string>
+    <string name="buttnSave">Guardar</string>
+    <string name="buttnDel">Borrar</string>
+</resources>
